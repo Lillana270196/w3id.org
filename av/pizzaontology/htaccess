@@ -6,4 +6,4 @@
 
 RewriteEngine on
 RewriteRule ^ https://raw.githubusercontent.com/Lillana270196/publishing-ontologypizza/refs/heads/main/PizzaTutorialWithDataV2.owl [R=302,L]
-#This way the ontology will be available at: https://w3id.org/fg/pizzaontology
+#This way the ontology will be available at: https://w3id.org/av/pizzaontology
